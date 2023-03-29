@@ -1,0 +1,3 @@
+fdcan.c:34:6:MX_FDCAN1_Init	8	static
+fdcan.c:122:6:HAL_FDCAN_MspInit	232	static
+fdcan.c:165:6:HAL_FDCAN_MspDeInit	16	static
